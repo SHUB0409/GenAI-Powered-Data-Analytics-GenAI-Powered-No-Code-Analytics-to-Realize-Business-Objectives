@@ -93,5 +93,5 @@ It provides clear insights into customer financial health and supports proactive
 
 ## 👨‍💻 Author
 **Shubham Kuril**  
-📧 Email: —  
+📧 Email: — surywanshishubham49@gmail.com 
 🌐 GitHub: [https://github.com/SHUB0409](https://github.com/SHUB0409)
