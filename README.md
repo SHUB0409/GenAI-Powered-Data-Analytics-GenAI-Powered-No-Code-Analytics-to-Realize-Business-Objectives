@@ -1,2 +1,2 @@
 # GenAI-Powered-Data-Analytics-GenAI-Powered-No-Code-Analytics-to-Realize-Business-Objectives
-Exploratory data analysis and risk profiling---Ensure data integrity and uncover key risk factors to build a stronger delinquency prediction model for Geldium.
+Exploratory data analysis and risk profiling---In this task, you will conduct an EDA on Geldium’s dataset to help Tata iQ’s analytics team and Geldium’s decision-makers understand the current state of their data. Your analysis will shape how the company refines its delinquency risk model and improves its intervention strategies..
